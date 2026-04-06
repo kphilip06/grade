@@ -1,3 +1,13 @@
+Gradebook implementation for CSC 122.
+
+Simply input names of students, test scores received, and title of tests. This program will organize everything for you systematically.
+
+add_student lets you add a student and their ID number to a vector
+add_assignment lets you add an assignment and a corresponding maximum score
+add_grade lets you add a name of student and their corresponding score
+
+Add these functions in your driver program and manipulate them according to your students' scores. Once you run the main program this should accurately display all your students' scores for the tests which you have entered.
+
 # You Get an A (C++)
 
 You can find the instructions for this lab at [More Than Equations][more-than-equations]. Create a new repository on GitHub to house your code. Be sure to make the repository public so that I can view and grade it.
